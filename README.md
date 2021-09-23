@@ -1,0 +1,2 @@
+# Picasso-y-CollapsingToolbarLayout
+dispositivos
